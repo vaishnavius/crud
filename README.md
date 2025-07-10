@@ -50,7 +50,7 @@ python3 mongodb_crud.py
 ```
 📌 Usage
 Once the program runs, you'll see a menu:
-MongoDB CRUD Operations Menu
+- MongoDB CRUD Operations Menu
 1. Create Documents
 2. Read Documents
 3. Update Document
